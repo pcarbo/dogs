@@ -1,1 +1,3 @@
-install.packages(c("ggplot2","cowplot"))
+install.packages(c("workflowr",
+                   "ggplot2",
+                   "cowplot"))
