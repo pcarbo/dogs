@@ -1,6 +1,6 @@
 # dogs
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pcarbo/dogs/master?urlpath=rstudio).
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pcarbo/dogs/master?urlpath=rstudio)
 
 Minimal illustration of [Binder][binder] for sharing a data analysis in
 R.
